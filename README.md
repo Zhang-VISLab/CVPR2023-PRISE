@@ -2,7 +2,7 @@
 Demo code for our proposed **PRISE** on GoogleMap, GoogleEarth, and MSCOCO datasets.
 
 ## Introduction
-We proposed **PRISE** to enforce the neural network to approximately learn a star-convex loss landscape around the ground truth give any data to facilitate the convergence of the Lucas-Kanade method to the ground truth through the high dimensional space defined by the network.
+We proposed **PRISE** to enforce the neural network to approximately learn a star-convex loss landscape around the ground truth given data to facilitate the convergence of the Deep Lucas-Kanade method to the ground truth through the high dimensional space defined by the network.
 
 <div align=center><img src="https://github.com/swiftzhang125/PRISE/blob/main/image/fig1.png" width="500" height="350" alt="Compared with DeepLK"/></div>
 
